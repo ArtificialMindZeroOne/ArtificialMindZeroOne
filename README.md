@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/artemzalevsky)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/ArtificialMindZeroOne)<br>
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/artificialmindzeroone)
 
 # 💻 Tech Stack:
