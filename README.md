@@ -32,7 +32,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![Диплом_RU_Залевский_2024-3682-007](https://github.com/user-attachments/assets/d8cc7b2c-777a-4196-a25b-b072dd14fa80)
+![Сertificate_ENG_Залевский_2024-3682-007-1](https://github.com/user-attachments/assets/1c61abc8-ca68-4b9c-9697-d9d89e10ab4b)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
