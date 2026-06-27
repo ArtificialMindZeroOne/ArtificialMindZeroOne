@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm Artem Zalevsky, full-stack engineer from Russia<br>🔭 I love traveling and coding. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I work in RSHB-Intech and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
+⚡I'm Artem Zalevsky, software engineer from Russia<br>🔭 I love traveling and coding. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I work in RWB and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
 
 
 ## 🌐 Socials:
