@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm Artem Zalevsky, software engineer from Russia<br>🔭 I love traveling and coding. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I work in RWB and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
+⚡I'm Artem Zalevsky, software engineer from Russia<br>🔭 I love traveling and coding. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
 
 
 ## 🌐 Socials:
@@ -50,9 +50,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-![Диплом_RU_Залевский_2024-3682-007](https://github.com/user-attachments/assets/d8cc7b2c-777a-4196-a25b-b072dd14fa80)
-![Сertificate_ENG_Залевский_2024-3682-007-1](https://github.com/user-attachments/assets/1c61abc8-ca68-4b9c-9697-d9d89e10ab4b)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
